@@ -1,5 +1,4 @@
-# MRSL_simul
-Simulation codes in MRSL
+# Simulation codes in MRSL: A Causal Network Pruning Algorithm based on GWAS Summary Data
 
 Citation:
 MRSL: A phenome-wide causal discovery algorithm based on GWAS summary data
