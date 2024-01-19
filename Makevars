@@ -1,0 +1,4 @@
+PKG_LIBS = -L":\Program Files\R\R-4.3.1\modules\x64"     -llapack -lblas  -lgfortran -lquadmath 
+
+
+PKG_CPPFLAGS=-I"C:\Users\houlei\AppData\Local\R\win-library\4.3\Rcpp\include"  
